@@ -2,7 +2,7 @@
 Cómo instalar módulos en Processwire  
 
 ## Cambiar el idioma [video](https://youtu.be/lWXvyRH2tpw)
-1. En el menú principal: Modules > Core y activar "Languages Support"
+1. En el menú principal: Modules > Core y activar "Languages Support" (desde install)  
 2. Ahora desde el menu principal ir a Setup y Languages, add new
 3. tanto es title como name poner **es**
 4. En la nueva ventana que se ha abierto, pulsar el texto rojo a mitad de pantalla "language packs"
